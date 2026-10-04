@@ -1,0 +1,8 @@
+{
+  "name": "Remix BACKROOMS: KILLER CHICKENS",
+  "description": "Videojuego de terror en primera persona estilo retro 2.5D raycasting DOOM y Wolfenstein 3D ambientado en The Backrooms con gallinas asesinas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
